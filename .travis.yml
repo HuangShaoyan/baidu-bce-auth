@@ -4,6 +4,6 @@ python:
 install:
   - pipenv sync -d
 script:
-  - pytest --mypy
+  - ./build.sh
 after_success:
   - coveralls
