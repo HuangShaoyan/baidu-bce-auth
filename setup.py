@@ -26,6 +26,7 @@ setup(
     version=__version__,
     author='huangshaoyan',
     author_email='huangshaoyan1982@gmail.com',
+    description='帮助你生成百度云 API 的鉴权认证字符串(Authorization header)',
     long_description=read_long_description(),
     long_description_content_type='text/markdown',
     python_requires='>=3.6',

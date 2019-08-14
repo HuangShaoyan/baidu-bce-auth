@@ -11,6 +11,7 @@ pytest-icdiff = "==0.2"
 pytest-mypy = "==0.3.3"
 pytest-pycodestyle = "==1.4.0"
 python-coveralls = "==2.9.3"
+twine = "==1.13.0"
 
 [requires]
 python_version = "3.6"
