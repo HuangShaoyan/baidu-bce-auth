@@ -5,3 +5,5 @@ install:
   - pipenv sync -d
 script:
   - pytest --mypy
+after_success:
+  - coveralls
