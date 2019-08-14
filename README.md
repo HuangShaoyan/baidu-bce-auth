@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/HuangShaoyan/baidu-bce-auth.svg?branch=master)](https://travis-ci.org/HuangShaoyan/baidu-bce-auth)
+
 # baidu-bce-auth
 
 帮助你生成百度云 API 的鉴权认证字符串(Authorization header)
