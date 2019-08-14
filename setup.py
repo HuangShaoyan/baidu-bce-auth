@@ -4,7 +4,7 @@ from pathlib import Path
 
 from setuptools import find_packages, setup
 
-from bceauth import __version__
+from bceauth import __license__, __version__
 
 
 def read_requires():
@@ -36,6 +36,7 @@ setup(
     packages=find_packages(),
     zip_safe=False,
     url='https://github.com/HuangShaoyan/baidu-bce-auth',
+    license=__license__,
     classifiers=[
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
