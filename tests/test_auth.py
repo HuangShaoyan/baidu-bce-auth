@@ -7,6 +7,9 @@ from bceauth.auth import make_auth
 
 
 def test_make_auth():
+    # 参考：https://cloud.baidu.com/doc/Reference/s/wjwvz1xt2
+    # 这个用例和上述链接的示例，使用相同的输入，得到相同的输出
+
     with patch('bceauth.auth.datetime') as mocked:
         mocked.utcnow = Mock(return_value=datetime(2015, 4, 27, 8, 23, 49))
 
