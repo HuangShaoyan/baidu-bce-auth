@@ -29,7 +29,8 @@ requests.get(
             headers={
                 'Host': 'example.com',
             },
-        )
+        ),
+        'Host': 'example.com',
     }
 )
 ```
