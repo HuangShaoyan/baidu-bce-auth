@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/HuangShaoyan/baidu-bce-auth.svg?branch=master)](https://travis-ci.org/HuangShaoyan/baidu-bce-auth)
+[![Coverage Status](https://coveralls.io/repos/github/HuangShaoyan/baidu-bce-auth/badge.svg?branch=master)](https://coveralls.io/github/HuangShaoyan/baidu-bce-auth?branch=master)
 
 # baidu-bce-auth
 
