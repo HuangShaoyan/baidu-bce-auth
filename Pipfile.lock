@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "185ed96f66705fdfa9ccce66631d2cf113fa817fd7734c4983a4f3d18fe74ca6"
+            "sha256": "97936ef38ab243df0c915488c3631ffcdcaac699859ef39415fe466b9bf59e90"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -9,8 +9,8 @@
         },
         "sources": [
             {
-                "name": "ainemo",
-                "url": "https://mirrors.devlocal.zaijia.cn/pypi/simple",
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
                 "verify_ssl": true
             }
         ]
@@ -35,7 +35,7 @@
             "hashes": [
                 "sha256:4d8eec30cc81bc5617dbf1218201d770dc35629363547f17577c61683ccfb3ee"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==1.4.4"
         },
         "coverage": {
@@ -87,7 +87,7 @@
                 "sha256:19241c1cbc971b9962473e4438a2ca19749a7dd002dd1a946eaba171b4114548",
                 "sha256:8e9dfa3cecb2400b3738a42c54c3043e821682b9c840b0448c0503f781130696"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==3.7.8"
         },
         "icdiff": {
@@ -131,7 +131,7 @@
                 "sha256:7a17613f7ea374ab64f39f03257f22b5755335b73251d0d253687a69029701ba",
                 "sha256:cdc1151ced496ca1496272da7fc356580e95f2682be1d32377c22ddebdf73c91"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==0.720"
         },
         "mypy-extensions": {
@@ -195,7 +195,7 @@
                 "sha256:6ef6d06de77ce2961156013e9dff62f1b2688aa04d0dc244299fe7d67e09370d",
                 "sha256:a736fed91c12681a7b34617c8fcefe39ea04599ca72c608751c31d89579a3f77"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==5.0.1"
         },
         "pytest-cov": {
@@ -203,7 +203,7 @@
                 "sha256:2b097cde81a302e1047331b48cadacf23577e431b61e9c6f49a1170bbe3d3da6",
                 "sha256:e00ea4fdde970725482f1f35630d12f074e121a23801aabf2ae154ec6bdd343a"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==2.7.1"
         },
         "pytest-flakes": {
@@ -211,14 +211,14 @@
                 "sha256:341964bf5760ebbdde9619f68a17d5632c674c3f6903ef66daa0a4f540b3d143",
                 "sha256:daaf319250eeefa8cb13b0ba78ffdda67926c4b6446a9e14f946b86d1ba6af23"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==4.0.0"
         },
         "pytest-icdiff": {
             "hashes": [
                 "sha256:9ff97fb493085f8099a8a7f6161fd570fad96699f42dc08ffc66d04e8063862f"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==0.2"
         },
         "pytest-mypy": {
@@ -226,14 +226,14 @@
                 "sha256:419d1d4877d41a6a80f0eb31faa7c50bb9445557f7ff1b02a1a26d10d7dc7691",
                 "sha256:917438af835beb87f14c9f6261137f8e992b3bf87ebf73f836ac7ede03424a0f"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==0.3.3"
         },
         "pytest-pycodestyle": {
             "hashes": [
                 "sha256:d4f1c1d633158c1a27b02a40cf8e27da7264a9cbd6f59b5d692368e82412ac78"
             ],
-            "index": "ainemo",
+            "index": "pypi",
             "version": "==1.4.0"
         },
         "six": {
