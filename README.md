@@ -14,6 +14,8 @@
 使用方法，以 requests 为例
 
 ```
+from bceauth.auth import make_auth
+
 ak = 'xxx'
 sk = 'yyy'
 path = 'zzz'
