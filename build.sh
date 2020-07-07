@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euxo pipefail
 
-pytest --mypy
+pytest
 
 rm -rf dist
 pipenv lock -r | egrep -v '^-i http' > requirements.txt
